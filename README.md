@@ -5,6 +5,8 @@
 
 :star::star2::star::star2::star::star2::star::star2::star::star2::star::star2::star::star2::star::star2::star::star2::star::star2::star::star2::star::star2::star::star2::star::star2::star::star2::star::star2::star::star2:
 
+### :melon:Go语言实战
+
 ### :melon:Java基础
 
 - [IO流](./src/IO流.md)
@@ -34,6 +36,7 @@
 ### :lemon:  组件
 
 - [ActiveMQ](./src/ActiveMQ.md)
+- [Kafka](./src/Kafka.md)
 
 ### :cherries:  机器学习
 
@@ -45,7 +48,8 @@
 
 ### :watermelon:数据库
 
-- [MySQL](./src/MySQL.md)
+- [MySQL基础](./src/MySQL基础.md)
+- [MySQL进阶](./src/MySQL进阶.md)
 - [Redis](./src/Redis.md)
 
 ###  :strawberry:  分布式
